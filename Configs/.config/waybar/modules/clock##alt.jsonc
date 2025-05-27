@@ -1,6 +1,7 @@
 "clock": {
-    "format-alt": "{:%I:%M %p}",
+    "format-alt": "{:%H:%M}",
     "rotate": "${r_deg}",
+    "timezone":"America/Argentina/Buenos_Aires",
     "format": "{:%R 󰃭 %d·%m·%y}",
     "tooltip-format": "<span>{calendar}</span>",
     "calendar": {
